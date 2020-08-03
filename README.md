@@ -40,4 +40,7 @@ When discussing Forbidden Knowledge, please use spoiler tags in the main Blaseba
 * Pitching: coldness, overpowerment, ruthlessness, shakesperianism, suppression, unthwackability, totalFingers
 * Unclassifiable: cinnamon, deceased, fate, peanutAllergy, pressurization, soul
 
+## How are star ratings determined?
+
+![](star_ratings.png)
 </details>
