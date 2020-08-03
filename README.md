@@ -13,8 +13,9 @@ Iliana is running this script locally, and we hope to have it productionized soo
 
 ## What does each stat affect?
 
-Baserunning: baseThirst, continuation, groundFriction, indulgence, laserlikeness
-defense: anticapitalism, chasiness, omniscience, tenaciousness, watchfulness
+Baserunning: baseThirst, continuation, groundFriction, indulgence,
+
+Defense: anticapitalism, chasiness, omniscience, tenaciousness, watchfulness
 
 Hitting: buoyancy, divinity, martyrdom, moxie, musclitude, patheticism, thwackability, tragicness
 
