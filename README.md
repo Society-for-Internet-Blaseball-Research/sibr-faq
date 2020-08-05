@@ -13,6 +13,8 @@ It's pronounced "SIBR"
 
 https://www.postman.com/collections/8c0e97c7444de0a125ac
 
+(Incomplete) documentation: https://github.com/Society-for-Internet-Blaseball-Research/blaseball-api-spec
+
 ## Is there a script to vote/bet/etc?
 
 The Society does not condone using the API for anything that requires authentication and may affect a user's account. We only handle read-only data.
