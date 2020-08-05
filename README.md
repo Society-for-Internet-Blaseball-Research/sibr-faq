@@ -5,6 +5,10 @@ A list of Frequently Asked Questions for SIBR: The Society for Internet Blasebal
 
 The Society peeks behind the curtain of Blaseball. We archive game data and work on projects to display and analyze that data. Often, as part of our work, we dive deeper into how Blaseball works and try to analyze what consequences our actions will have.
 
+## How do I pronounce SIBR?
+
+It's pronounced "SIBR"
+
 ## What are the API endpoints?
 
 https://www.postman.com/collections/8c0e97c7444de0a125ac
