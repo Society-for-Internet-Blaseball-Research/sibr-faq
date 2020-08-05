@@ -1,5 +1,5 @@
 # SIBRFAQ
-A list of Frequently Asked Questions for SIBR: The Society for Internet Blaseball Research
+A list of Frequently Asked Questions for SIBR: the Society for Internet Blaseball Research
 
 ## What does SIBR do?
 
