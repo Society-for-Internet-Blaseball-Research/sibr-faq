@@ -14,5 +14,5 @@ In no particular order, these are the things that SIBR wants to know, but curren
   - The going theory on this is that fingers are used as a measure of how "mutant" a player is.
 - How much effect did the *Fourth Strike* have for teams blessed with it?
 - How well did the total stars (or pitching stars or lineup stars) correlate with team overall performance? Which teams over- or under-performed?
-- Which players over- or under-performed their star rating?
+  - Which players over- or under-performed their star rating?
 
