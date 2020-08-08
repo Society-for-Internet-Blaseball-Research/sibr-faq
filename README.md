@@ -17,7 +17,7 @@ https://www.postman.com/collections/8c0e97c7444de0a125ac
 
 ## Is there a script to vote/bet/etc? Can you help me write one?
 
-No and no. SIBR focuses on read-only data, and we ask that others respect the Blaseball community and do the same.
+No and no. SIBR focuses on read-only data and unauthenticated endpoints, and we ask that others respect the Blaseball community and do the same.
 
 However, we understand that itch. Our advice, if you must: build something for your own self development, but don't share it or brag about it. Most importantly:
 
