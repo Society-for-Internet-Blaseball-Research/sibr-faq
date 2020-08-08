@@ -19,7 +19,7 @@ https://www.postman.com/collections/8c0e97c7444de0a125ac
 
 No and no. SIBR focuses on read-only data, and we ask that others respect the Blaseball community and do the same.
 
-However, we understand that itch. Our advice, if you must: build something for your own self development, but don't share it or brag about it, and...
+However, we understand that itch. Our advice, if you must: build something for your own self development, but don't share it or brag about it. Most importantly:
 
 > SO ABOUT THE PEANUTS<br>
 > THE BOOK WAS STRIKE ONE<br>
