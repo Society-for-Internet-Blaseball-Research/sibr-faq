@@ -15,9 +15,20 @@ https://www.postman.com/collections/8c0e97c7444de0a125ac
 
 (Incomplete) documentation: https://github.com/Society-for-Internet-Blaseball-Research/blaseball-api-spec
 
-## Is there a script to vote/bet/etc?
+## Is there a script to vote/bet/etc? Can you help me write one?
 
-The Society does not condone using the API for anything that requires authentication and may affect a user's account. We only handle read-only data.
+No and no. SIBR focuses on read-only data and unauthenticated endpoints, and we ask that others respect the Blaseball community and do the same.
+
+However, we understand that itch. Our advice, if you must: build something for your own self development, but don't share it or brag about it. Most importantly:
+
+> SO ABOUT THE PEANUTS<br>
+> THE BOOK WAS STRIKE ONE<br>
+> THE FRAUD IS STRIKE TWO<br>
+> YOU WILL LEARN DISCIPLINE<br>
+> GET YOUR PEANUTS<br>
+> WHILE YOU STILL CAN
+
+... don't commit the 🩸 Third Strike 🩸.
 
 ## Is anyone keeping track of game updates?
 
