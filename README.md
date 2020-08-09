@@ -9,6 +9,19 @@ The Society peeks behind the curtain of Blaseball. We archive game data and work
 
 It's pronounced "SIBR"
 
+## Okay, but what EXACTLY does SIBR do?
+
+It's a complicated multi-step plan:
+1) Harvest lots of raw data from games as they happen
+2) Process that data and store it in a database
+3) Calculate typical [reality-league](https://www.mlb.com/) statistics from that data, as well as new statistics unique to [ILB](https://blaseball.com/)
+4) Build a [site](https://blaseball-reference.com/) where fans can view and explore these statistics
+5) Use all of this data to publish [research](https://research.blaseball-reference.com/) into the underlying algorithms of Blaseball, and how its unique rules impact play
+
+Currently #1 is basically complete, we have substantial progress on 2 and 3, 4 is under construction, and 5 is under way!
+
+More detailed info is available about [the specific projects involved](./projects.md).
+
 ## What are the API endpoints?
 
 https://www.postman.com/collections/8c0e97c7444de0a125ac
@@ -43,7 +56,7 @@ We're working on it. You can monitor the process in #archiving and #modeling.
 ## I'm new, what can I do to contribute?
 
 It depends on which kind of genius you are.
-If you're a coding genius, you can check the [Trello board](https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects), if you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](https://github.com/Society-for-Internet-Blaseball-Research/sibr-faq/blob/master/listery.md).
+If you're a coding genius, you can check the [Trello board](https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects), if you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](./listery.md).
 
 # ⚠️ FORBIDDEN KNOWLEDGE ZONE ⚠️
 
