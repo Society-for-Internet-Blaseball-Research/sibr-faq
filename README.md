@@ -20,7 +20,7 @@ It's a complicated multi-step plan:
 
 Currently #1 is basically complete, we have substantial progress on 2 and 3, 4 is under construction, and 5 is under way!
 
-More detailed info is available about [the specific projects involved](https://github.com/Society-for-Internet-Blaseball-Research/sibr-faq/blob/master/projects.md).
+More detailed info is available about [the specific projects involved](./projects.md).
 
 ## What are the API endpoints?
 
