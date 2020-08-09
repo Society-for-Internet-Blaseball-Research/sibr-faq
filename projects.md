@@ -23,7 +23,7 @@ Imports data into a SQL DB using `Cauldron`
 Operational configs for SIBR infrastructure
 
 ### https://github.com/Society-for-Internet-Blaseball-Research/mining-ops
-A place to store your datamining operations
+A place to store your datamining operations, keep lab notebooks, and store code that doesn't belong to a particular research paper.
 
 ## Viewing Games
 
