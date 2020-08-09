@@ -56,7 +56,7 @@ We're working on it. You can monitor the process in #archiving and #modeling.
 ## I'm new, what can I do to contribute?
 
 It depends on which kind of genius you are.
-If you're a coding genius, you can check the [Trello board](https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects), if you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](https://github.com/Society-for-Internet-Blaseball-Research/sibr-faq/blob/master/listery.md).
+If you're a coding genius, you can check the [Trello board](https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects), if you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](./listery.md).
 
 # ⚠️ FORBIDDEN KNOWLEDGE ZONE ⚠️
 
