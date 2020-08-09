@@ -28,7 +28,7 @@ A place to store your datamining operations
 ## Viewing Games
 
 ### https://github.com/Sakimori/Blaseball-Livestream-Watcher/releases
-Local app that watches games and records box scores and statistics. Can also process stored JSON from `baseball-archive-scripts`
+Local app that watches games and records box scores and statistics. Can also process stored JSON from `baseball-archive-scripts` and calculate advanced stats like SLG and WHIP!
 
 ### http://jlareau.club.cc.cmu.edu/blaseball.html
 Watch a game in your browser, and scroll back through the history
