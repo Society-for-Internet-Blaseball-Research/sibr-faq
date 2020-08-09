@@ -5,7 +5,7 @@ More details on projects may be available at https://trello.com/b/KqiT4fms/socie
 ## Real Performance Statistics
 
 ### https://docs.google.com/spreadsheets/d/1tGDP50yFYbYYrptcUB-735D75ZOTDxHHV-XC32wUFdc/edit#gid=0
-Season 3 basic stats. Includes simple countable stats for batters and pitchers (not more complex calculated stats like RBIs or WHIP), as well as each team's schedule.
+Season 3 basic stats. Includes simple countable stats for batters and pitchers (not more complex calculated stats like SLG or WHIP), as well as each team's schedule.
 
 ## Harvesting and Analyzing Data
 
