@@ -2,6 +2,14 @@
 
 More details on projects may be available at https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects
 
+## Datablase
+
+The official SIBR statistical reference API. https://api.blaseball-reference.com/docs
+
+### Datablase Clients
+
+Python: https://github.com/jmaliksi/blaseball-reference-py (by ch00beh#0836)
+
 ## Real Performance Statistics
 
 ### https://docs.google.com/spreadsheets/d/1tGDP50yFYbYYrptcUB-735D75ZOTDxHHV-XC32wUFdc/edit#gid=0
