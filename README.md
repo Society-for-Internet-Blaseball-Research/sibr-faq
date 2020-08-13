@@ -12,13 +12,13 @@ It's pronounced "SIBR"
 ## Okay, but what EXACTLY does SIBR do?
 
 It's a complicated multi-step plan:
-1) Harvest lots of raw data from games as they happen
-2) Process that data and store it in a database
+1) Harvest lots of raw data from games as they happen (done!)
+2) Process that data and store it in a database (done and done!)
 3) Calculate typical [reality-league](https://www.mlb.com/) statistics from that data, as well as new statistics unique to [ILB](https://blaseball.com/)
 4) Build a [site](https://blaseball-reference.com/) where fans can view and explore these statistics
 5) Use all of this data to publish [research](https://research.blaseball-reference.com/) into the underlying algorithms of Blaseball, and how its unique rules impact play
 
-Currently #1 is basically complete, we have substantial progress on 2 and 3, 4 is under construction, and 5 is under way!
+Currently 1 and 2 are done (although improvement is ongoing) and 3, 4, and 5 are in progress!
 
 More detailed info is available about [the specific projects involved](./projects.md).
 
