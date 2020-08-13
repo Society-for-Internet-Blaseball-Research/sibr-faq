@@ -51,7 +51,7 @@ iliana is running this script locally, and we hope to have it productionized soo
 
 ## Is there an API for historical data?
 
-We're working on it. You can monitor the process in #archiving and #modeling.
+Check out the information in the #datablase channel, and https://api.blaseball-reference.com/docs#/
 
 ## I'm new, what can I do to contribute?
 
