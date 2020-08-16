@@ -2,6 +2,9 @@
 
 More details on projects may be available at https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects
 
+A diagram of how the SIBR projects relate can be found at https://docs.google.com/presentation/d/1iSM7uVkyUx-XY2ff0E8osNF_7DgFPUQvsGzsnS_5Kho/edit?usp=sharing
+
+
 ## Datablase
 
 The official SIBR statistical reference API. https://api.blaseball-reference.com/docs
