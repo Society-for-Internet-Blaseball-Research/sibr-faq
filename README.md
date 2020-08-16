@@ -1,15 +1,19 @@
 # SIBRFAQ
-A list of Frequently Asked Questions for SIBR: the Society for Internet Blaseball Research
+A list of Frequently Asked Questions for SIBR: the *Society for Internet Blaseball Research*
 
 ## What does SIBR do?
 
 The Society peeks behind the curtain of Blaseball. We archive game data and work on projects to display and analyze that data. Often, as part of our work, we dive deeper into how Blaseball works and try to analyze what consequences our actions will have.
 
+## ... What's Blaseball, exactly?
+
+We recommend reading [the unofficial but semi-official Blaseball FAQ](https://docs.google.com/document/d/1hmTbrINnfRoM62KoJNKk6lLxbAMRr3auTNQneNbOCoQ/edit) to answer that question and many more outside SIBR's scope. Further questions can find a serious answer in #beginner-help on the official Blaseball Discord.
+
 ## How do I pronounce SIBR?
 
-It's pronounced "SIBR"
+It's pronounced "SIBR".
 
-## Okay, but what EXACTLY does SIBR do?
+## Okay, but what *exactly* does SIBR do?
 
 It's a complicated multi-step plan:
 1) Harvest lots of raw data from games as they happen (done!)
@@ -60,9 +64,9 @@ If you're a coding genius, you can check the [Trello board](https://trello.com/b
 
 # ⚠️ FORBIDDEN KNOWLEDGE ZONE ⚠️
 
-The Society (along with the Wiki) classify any information not visible on blaseball.com as "Forbidden Knowledge", to allow people playing Blaseball to decide whether they want to cross that threshold themselves.
+The Society (along with [the semi-official FAQ](https://docs.google.com/document/d/1hmTbrINnfRoM62KoJNKk6lLxbAMRr3auTNQneNbOCoQ/edit#) and [the Wiki](https://blaseball.fandom.com/)) classify any information not visible on blaseball.com as "Forbidden Knowledge", to allow people playing Blaseball to decide whether they want to cross that threshold themselves.
 
-When discussing Forbidden Knowledge, please use spoiler tags in the main Blaseball Discord (surround your text with double pipes `||`).
+When discussing Forbidden Knowledge, please use spoiler tags in the main Blaseball Discord (surround your text with double pipes `||`). Because SIBR's entire thing is discovering and discussing Forbidden Knowledge, this rule doesn't apply to the SIBR Discord.
 
 <details>
 <summary>View Forbidden Knowledge</summary>
