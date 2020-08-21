@@ -81,5 +81,5 @@ When discussing Forbidden Knowledge, please use spoiler tags in the main Blaseba
 
 ## How are star ratings determined?
 
-![](star_ratings.png)
+![](updated_star_formulas.png)
 </details>
