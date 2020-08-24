@@ -5,6 +5,10 @@ A list of Frequently Asked Questions for SIBR: the *Society for Internet Blaseba
 
 The Society peeks behind the curtain of Blaseball. We archive game data and work on projects to display and analyze that data. Often, as part of our work, we dive deeper into how Blaseball works and try to analyze what consequences our actions will have.
 
+## How do I join SIBR?
+
+You can join the [SIBR discord server](https://discord.gg/FfnScUn) to discuss the work SIBR is doing, new work you'd like to start or anything else relating to the investigation of the secrets of Blaseball. 
+
 ## ... What's Blaseball, exactly?
 
 We recommend reading [the unofficial but semi-official Blaseball FAQ](https://docs.google.com/document/d/1hmTbrINnfRoM62KoJNKk6lLxbAMRr3auTNQneNbOCoQ/edit) to answer that question and many more outside SIBR's scope. Further questions can find a serious answer in #beginner-help on the official Blaseball Discord.
