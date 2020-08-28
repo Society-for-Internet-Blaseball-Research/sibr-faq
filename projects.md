@@ -72,7 +72,7 @@
 ### Blaseball Game Log
 
 * Description: Watch a game in your browser, and scroll back through the history
-* Site: http://jlareau.club.cc.cmu.edu/blaseball.html
+* Site: http://blaseball.dlareau.com
 * Contributors: @Dlareau
 
 ### Node.js game viewer
