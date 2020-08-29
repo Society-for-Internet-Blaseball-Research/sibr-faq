@@ -240,3 +240,9 @@ api docs, sorta anyways
 * Description: rescorin' stuffs
 * Site: https://github.com/lilserf/Rescorer
 * Site: https://gist.github.com/dlareau/ecd34d38df5836ba17c633f96c7e519e
+
+## Blasebot
+
+* Description: A discord bot for watching games and looking up facts
+* Code: https://github.com/BeeFox-sys/blasebot
+* Bot Invite: https://discord.com/oauth2/authorize?client_id=749154634370646067&scope=bot&permissions=18432
