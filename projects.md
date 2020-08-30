@@ -168,13 +168,10 @@ api docs, sorta anyways
 * Code: https://github.com/helloimowen/modern-blaseball
 * Code: https://github.com/helloimowen/blextract
 
-### blaseball api for python 2 (deprecated??)
+### blaseball-mike
 
-* Code: https://github.com/swgillespie/blaseball
-
-### blaseball api for python 3 (deprecated???)
-
-* Code: https://gist.github.com/Edgarware/78ee78fcd7781379b9c604cac7393423
+* Description: blaseball API for python, with lazy loading references and event stream support
+* Code: https://github.com/jmaliksi/blaseball-mike
 
 ### The Book Scrapers
 
