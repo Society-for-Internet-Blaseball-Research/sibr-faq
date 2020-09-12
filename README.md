@@ -49,7 +49,7 @@ However, we understand that itch. Our advice, if you must: build something for y
 > GET YOUR PEANUTS<br>
 > WHILE YOU STILL CAN
 
-... don't commit the 🩸 Third Strike 🩸.
+... don't commit the 🩸 ~~Third~~Fourth Strike 🩸.
 
 ## Is anyone keeping track of game updates?
 
