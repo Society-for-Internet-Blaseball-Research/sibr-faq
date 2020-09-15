@@ -85,6 +85,10 @@
 * Description: recorder (deprecated?)
 * Site: https://github.com/GoggleChild/blaseball-recorder
 
+### Blaseball Playback
+* Description: Tool to record current blaseball games and play them back on a local streaming server. Also works with SIBR archives
+* Site: https://github.com/Cidolfas/BlaseballPlayback
+
 ## User scripts / styles
 
 ### Blaseball-Userstyles
@@ -162,16 +166,16 @@ api docs, sorta anyways
 * Contributors: @TheHanna#5269
 * Project Board / Todo List: https://github.com/TheHanna/node-blaseball/projects/1
 
-### modern-blaseball
-
-* Description: blaseball api/scraper for python #1 (deprecated??)
-* Code: https://github.com/helloimowen/modern-blaseball
-* Code: https://github.com/helloimowen/blextract
-
 ### blaseball-mike
 
 * Description: blaseball API for python, with lazy loading references and event stream support
 * Code: https://github.com/jmaliksi/blaseball-mike
+
+### modern-blaseball
+
+* Description: blaseball api/scraper for python (deprecated??)
+* Code: https://github.com/helloimowen/modern-blaseball
+* Code: https://github.com/helloimowen/blextract
 
 ### The Book Scrapers
 
