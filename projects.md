@@ -3,8 +3,6 @@
 
 * check the faq: https://github.com/Society-for-Internet-Blaseball-Research/sibr-faq
 
-* More details on projects may be available at https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects
-
 * A diagram of how the SIBR projects relate can be found at https://docs.google.com/presentation/d/1iSM7uVkyUx-XY2ff0E8osNF_7DgFPUQvsGzsnS_5Kho/edit?usp=sharing
 
 ## The Datablase (#datablase)
@@ -19,6 +17,13 @@
 * Site: https://github.com/jmaliksi/blaseball-reference-py
 * Contributer: ch00beh#0836
 
+### Reblase
+
+* Description: Comprehensive archived games viewer built partially using the datablase!
+* Site: https://reblase.sibr.dev/
+* Code: https://github.com/xSke/BlaseballData
+* Contributors: Ske#6201
+
 ### Scryer
 
 * Description: A Browser-based datablase client
@@ -26,7 +31,7 @@
 * Code: https://github.com/metermaid/scryer
 * Contributors: risky#9552
 
-### blaseball-reference.com
+### blaseball-reference.com (#blaseball-reference)
 
 * Description: not launched yet, but a reference for stats
 * Contributors: @shibboh
@@ -51,7 +56,7 @@
 
 * Description: Tool for importing raw logs from S3 into Postgres using `Cauldron`
 * Site:  https://github.com/Society-for-Internet-Blaseball-Research/prophesizer
-* Contributors: Corvimae
+* Contributors: Corvimae, lilserf, ifhbiff
 
 ### sibr-ops
 
@@ -60,14 +65,7 @@
 * Contributors: @ Corvimae#8392
 
 
-## Viewing Games
-
-### Blaseball-Livestream-Watcher
-
-* Description: A way to view stats and box scores for any given blaseball game (live or archived) and a fully featured client for any game. Can also process stored JSON from `baseball-archive-scripts` and calculate advanced stats like SLG and WHIP!
-* Site: https://github.com/Sakimori/Blaseball-Livestream-Watcher/releases
-* Code: https://github.com/Sakimori/Blaseball-Livestream-Watcher
-* Contributors: @ Sakimori#1228
+## Viewing Live Games
 
 ### Blaseball Game Log
 
@@ -75,21 +73,25 @@
 * Site: http://blaseball.dlareau.com
 * Contributors: @Dlareau
 
-### Node.js game viewer
-
-* Description: Follow a Blaseball game for the given team and print updates to the console. (deprecated??)
-* Site: https://gist.github.com/JavadocMD/49309d286ba24dc3eb2d25236263afd8
-
-### blaseball-recorder
-
-* Description: recorder (deprecated?)
-* Site: https://github.com/GoggleChild/blaseball-recorder
-
 ### Blaseball Playback
+
 * Description: Tool to record current blaseball games and play them back on a local streaming server. Also works with SIBR archives
 * Site: https://github.com/Cidolfas/BlaseballPlayback
 
-## User scripts / styles
+### Blases Loaded (#blases-loaded)
+
+* Description: Blases Loaded is a mobile app for live-viewing Blaseball games.
+* Site: https://rangerrick.github.io/blobile/
+* Code: https://github.com/RangerRick/blobile
+* Contributors: RangerRick#6987
+
+### bbTV
+
+* Description: Blaseball TV Viewer, written in C# for Unity 2019.3 Download the latest release in the panel to the right to try it out today!
+* Site: https://github.com/KaynSD/bbTV
+* Contributors: KaynSD#5477
+
+## Blaseball.com Scripts and Parsers (#site-js)
 
 ### Blaseball-Userstyles
 
@@ -97,10 +99,17 @@
 * Site: https://holmesmr.github.io/Blaseball-Userstyles
 * Contributors: @ceph3us.#0451
 
-### Blaseball Userstyles 2
+### The Book Scrapers
 
-* Description: CSS improvements for blaseball.com
-* Site: https://gist.github.com/Fugiman/1cbe3b776bb9603298fc4258495af09a
+* Description: scrapers for the book
+* Python: https://gist.github.com/oshoham/0ee3c81013183ce57d6c48897cd25be5
+* JS: https://gist.github.com/oshoham/b05e81e4759e5105d0a4c947172e025c
+
+### blaseball-net-winnings
+
+* Description: A userscript to add fields to the Watch Live section of Blaseball to calculate net winnings
+* Code: https://github.com/rgallo/blaseball-net-winnings
+* Contributor: TransatlanticFoe#3525
 
 ## Betting (#betting-and-voting)
 
@@ -121,19 +130,15 @@
 
 * Description: Viewer for player statistics by team. (live)
 * Site: https://dittoslash.uk/stlatsviewer/
+* Site: http://stlats.sibr.dev/
 * Source: https://git.sr.ht/~dittoslash/blaseballstlats
 * Contributors: @ rainefall#0001, @ Gir327#9432
 * Project Board: https://todo.sr.ht/~dittoslash/blaseballstlats
 
-### blaseball.space
-
-* Description: Viewer for the secret attributes assigned to each player (old data, out of date)
-* Site: https://blaseball.space
-
 ### Vibe Check
 
 * Description: checks some vibes
-* Site: https://jlareau.club.cc.cmu.edu/vibe-check.html
+* Site: http://blaseball.dlareau.com/vibe-check.html
 
 ### Blaseball-stats
 
@@ -144,19 +149,13 @@
 * Description: stlats vs stats
 * Site: https://notruestatistics.shinyapps.io/batStatsVStLats/
 
-### forbidden knowledge
-
-* Description: blessings vs decrees? deprecated
-* Site: https://forbidden-knowledge.vercel.app/
-
-## Blaseball.com API
+## Blaseball.com API Clients (#blaseball-api)
 
 ### API Documentation
 
 * Description: Detailed documentation of all known blaseball.com API endpoints for community reference.
 * Site1: https://github.com/Society-for-Internet-Blaseball-Research/blaseball-api-spec
 * Site2: https://postman.com/collections/8c0e97c7444de0a125ac
-api docs, sorta anyways
 * Contributors: @ Corvimae#8392, @ tehstone#8448, @ dwfig (discord unknown)
 
 ### node-blaseball
@@ -171,23 +170,32 @@ api docs, sorta anyways
 * Description: blaseball API for python, with lazy loading references and event stream support
 * Code: https://github.com/jmaliksi/blaseball-mike
 
-### modern-blaseball
+## Games Analysis
 
-* Description: blaseball api/scraper for python (deprecated??)
-* Code: https://github.com/helloimowen/modern-blaseball
-* Code: https://github.com/helloimowen/blextract
+### Blaseball Playoff Status
 
-### The Book Scrapers
+* Description: a tool to check whether your team will make the playoffs
+* Site: https://mixolyde.github.io/blaseballstatus/index.html
+* Code: https://github.com/mixolyde/blaseballstatus
+* Contributors: mixolyde#9663
 
-* Description: scrapers for the book
-* Python: https://gist.github.com/oshoham/0ee3c81013183ce57d6c48897cd25be5
-* JS: https://gist.github.com/oshoham/b05e81e4759e5105d0a4c947172e025c
+### blaseball-streak-finder
 
-### splortshub
+* Description: This repo contains a command line tool called streak-finder that helps find blaseball winning and losing streaks.
+* Code: https://github.com/ch4zm/blaseball-streak-finder
+* Contributors: 🌞 Ch4zm of Hellmouth 🌞
 
-* Description: reverse look up / caching (not working????)
-* Docs: http://api.splortshub.com/docs
-* Example: http://api.splortshub.com/api/v1beta/players/search/?name=Ziwa%20Mueller
+### interesting-blaseball-games
+
+* Description: interesting-blaseball-games is a command-line tool for finding interesting blaseball games.
+* Code: https://github.com/ch4zm/interesting-blaseball-games
+* Contributors: 🌞 Ch4zm of Hellmouth 🌞
+
+### Sclorigami
+
+* Description: Scorigami tool in rust
+* Code: https://gitlab.com/red9/sclorigami
+* Contributors: red#4096
 
 ## Papers + Paper Accessories
 
@@ -247,3 +255,10 @@ api docs, sorta anyways
 * Description: A discord bot for watching games and looking up facts
 * Code: https://github.com/BeeFox-sys/blasebot
 * Bot Invite: https://discord.com/oauth2/authorize?client_id=749154634370646067&scope=bot&permissions=18432
+* Contributors: BeeFox#7767
+
+## Blaseball-Scripts
+
+* Description: A collection of scripts to help use blaseball
+* Code: https://github.com/BeeFox-sys/blaseball-scripts
+* Contributors: BeeFox#7767

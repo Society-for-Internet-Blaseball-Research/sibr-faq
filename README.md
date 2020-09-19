@@ -63,8 +63,7 @@ Check out the information in the #datablase channel, and https://api.blaseball-r
 
 ## I'm new, what can I do to contribute?
 
-It depends on which kind of genius you are.
-If you're a coding genius, you can check the [Trello board](https://trello.com/b/KqiT4fms/society-for-internet-blaseball-research-projects), if you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](./listery.md).
+It depends on which kind of genius you are. If you want to start a new project, we keep a list of potential #project-ideas on the Discord. If you want to contribute to existing projects, reach out in #volunteers. If you're more of a number cruncher, take a look at the [Grand List of Minor Mysteries](./listery.md). You don't need to be particularly experienced as a programmer or statistician-- the most important thing is that you want to contribute!
 
 # ⚠️ FORBIDDEN KNOWLEDGE ZONE ⚠️
 
