@@ -82,7 +82,7 @@ When discussing Forbidden Knowledge, please use spoiler tags in the main Blaseba
 * Hitting: divinity, martyrdom, moxie, musclitude, patheticism, thwackability, tragicness
 * Pitching: coldness, overpowerment, ruthlessness, shakesperianism, suppression, unthwackability, totalFingers
 * Vibes: buoyancy, cinnamon, pressurization
-* Unclassifiable: cinnamon, deceased, fate, peanutAllergy, pressurization, soul
+* Unclassifiable: deceased, fate, peanutAllergy, soul
 
 ## How are star ratings determined?
 
