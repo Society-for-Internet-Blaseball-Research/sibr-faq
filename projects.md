@@ -10,7 +10,7 @@
 * Description: Database to store archived blaseball data
 * Docs: https://api.blaseball-reference.com/docs
 * Code: https://github.com/Society-for-Internet-Blaseball-Research/datablase
-* Contributers: Corvimae, lilserf, Sakimori, iliana, shibboh, tehstone
+* Contributers: Corvimae, lilserf, Sakimori, iliana, shibboh, tehstone, Gizmo|Ifhbiff
 
 ### Datablase Python Client
 
